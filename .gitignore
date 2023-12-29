@@ -1,0 +1,8 @@
+json-c/*
+.vscode/*
+core
+hwmoniter
+main
+socket_server
+test
+toJson
